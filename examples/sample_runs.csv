@@ -1,0 +1,4 @@
+run_id,configuration,apogee_m,max_velocity_m_s,max_acceleration_m_s2,stability_calibers,rail_exit_velocity_m_s
+baseline-calm,Baseline; calm wind,224.1,154.3,128.4,1.62,24.6
+headwind-5,Baseline; 5 m/s headwind,213.5,153.8,126.1,1.62,24.5
+lower-mass,Reduced dry mass; calm wind,231.8,160.2,134.9,1.47,26.1
